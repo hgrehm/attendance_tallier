@@ -1,0 +1,3 @@
+*.csv
+# Note that the script doesn't work with excel worksheets; this is included as a preventative measure to keep student data out of the repo
+*.xlsx
